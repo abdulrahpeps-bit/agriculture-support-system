@@ -250,8 +250,8 @@ status = tk.Label(
 )
 status.pack(side="bottom", fill="x")
 
-# ==========================
+
 # LOAD DATA + RUN
-# ==========================
+
 load_data()
 root.mainloop()
